@@ -2,6 +2,16 @@
 
 Annotations in the Spring Framework simplify configuration and dependency injection, reducing the need for XML-based configurations. They enhance modularity and ease maintenance by providing metadata at the class level.
 
+### Table of Contents
+
+- [Introduction to Annotations](#introduction-to-annotations-in-spring-framework)
+- [Understanding Components and `@ComponentScan`](#understanding-components-and-componentscan)
+- [Hands-on: Component and Component Scan without Annotations](#hands-on-component-and-component-scan-with-spring-without-annotations)
+- [`@Value` Annotation](#value-annotation)
+- [Transition from XML to Annotations](#transition-from-xml-to-annotations-in-spring-framework)
+- [`@Autowired` Annotation](#autowired-annotation)
+- [`@Qualifier` Annotation](#qualifier-annotation)
+
 ## Understanding Components and `@ComponentScan`
 
 - `@Component`: Marks a Java class as a Spring-managed component.
@@ -160,16 +170,10 @@ public class PaymentService {
 
 ---
 
-## Pagination in README.md (Table of Contents)
+📍 **Author**: Abdul Raqeeb  
+📧 **Contact**: abduloy25@gmail.com 
+🔗 **GitHub**: [GITHUB_link](https://github.com/Abddev-rqb)
 
-### Table of Contents
 
-- [Introduction to Annotations](#introduction-to-annotations-in-spring-framework)
-- [Understanding Components and `@ComponentScan`](#understanding-components-and-componentscan)
-- [Hands-on: Component and Component Scan without Annotations](#hands-on-component-and-component-scan-with-spring-without-annotations)
-- [`@Value` Annotation](#value-annotation)
-- [Transition from XML to Annotations](#transition-from-xml-to-annotations-in-spring-framework)
-- [`@Autowired` Annotation](#autowired-annotation)
-- [`@Qualifier` Annotation](#qualifier-annotation)
 
 
