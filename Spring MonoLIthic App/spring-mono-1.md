@@ -137,6 +137,6 @@ Example URIs:
 
 ---
 
-📍 **Author**: Your Name  
-📧 **Contact**: your.email@example.com  
-🔗 **GitHub**: [Your GitHub Profile](https://github.com/yourusername)
+📍 **Author**: Abdul Raqeeb  
+📧 **Contact**: abduloy25@gmail.com 
+🔗 **GitHub**: [Your GitHub Profile](https://github.com/Abddev-rqb)
