@@ -1,4 +1,4 @@
-# Interview Preparation: Web and API Fundamentals
+# Web and API Fundamentals
 
 ## Table of Contents
 - [How Does the Web Work?](#how-does-the-web-work)
