@@ -186,3 +186,6 @@ This project showcases efficient data handling using Pagination, DTO, and ModelM
 
 ---
 
+📍 **Author**: Abdul Raqeeb  
+📧 **Contact**: abduloy25@gmail.com 
+🔗 **GitHub**: [GITHUB_link](https://github.com/Abddev-rqb)
