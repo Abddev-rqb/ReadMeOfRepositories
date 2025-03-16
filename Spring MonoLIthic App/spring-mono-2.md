@@ -1,4 +1,4 @@
-# Java Spring Framework Guide
+# Java Spring Framework Concepts
 
 ## Table of Contents
 
@@ -234,13 +234,6 @@ Feel free to fork this repo and contribute!
 
 ---
 
-## License
-
-MIT License
-
----
-
 📍 **Author**: Abdul Raqeeb  
 📧 **Contact**: abduloy25@gmail.com 
 🔗 **GitHub**: [Your GitHub Profile](https://github.com/Abddev-rqb)
----
