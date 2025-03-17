@@ -12,6 +12,18 @@
 
 ---
 
+## Technology Stack
+- Java 17
+- Spring Boot 3.x
+- Spring Data JPA (Hibernate)
+- Spring Security (JWT Authentication)
+- MySQL Database
+- Lombok
+- Postman (for testing)
+- Maven
+
+---
+
 ## How Does the Web Work?
 The web operates using a **Client-Server** architecture. When a user requests a web page:
 1. The **browser (client)** sends a request to the **server** (where the website is hosted).

@@ -14,6 +14,20 @@
 - [Deleting Address](#deleting-address)
 - [Conclusion](#conclusion)
 
+---
+
+## Technology Stack
+- Java 17
+- Spring Boot 3.x
+- Spring Data JPA (Hibernate)
+- Spring Security (JWT Authentication)
+- MySQL Database
+- Lombok
+- Postman (for testing)
+- Maven
+
+---
+
 ## Introduction
 
 This project is a Spring Boot-based monolithic application that manages addresses. It demonstrates how to implement Data Transfer Objects (DTOs), repositories, and RESTful endpoints for CRUD operations.

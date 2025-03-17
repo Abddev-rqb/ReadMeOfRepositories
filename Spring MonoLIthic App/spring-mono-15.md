@@ -18,6 +18,18 @@
 
 ---
 
+## Technology Stack
+- Java 17
+- Spring Boot 3.x
+- Spring Data JPA (Hibernate)
+- Spring Security (JWT Authentication)
+- MySQL Database
+- Lombok
+- Postman (for testing)
+- Maven
+
+---
+
 ## Introduction
 The Shopping Cart module in this project is designed using Spring Boot in a monolithic architecture. It provides core functionalities like adding products, updating quantities, removing products, and fetching user-specific cart details. This module follows best practices with DTOs, repositories, and authentication utilities.
 

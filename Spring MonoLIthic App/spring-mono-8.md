@@ -16,6 +16,18 @@
 
 ---
 
+## Technology Stack
+- Java 17
+- Spring Boot 3.x
+- Spring Data JPA (Hibernate)
+- Spring Security (JWT Authentication)
+- MySQL Database
+- Lombok
+- Postman (for testing)
+- Maven
+
+---
+
 ## What is Lombok?
 Lombok is a Java library that helps reduce boilerplate code by automatically generating commonly used methods like getters, setters, constructors, and toString methods at compile time. It improves developer productivity and keeps code clean.
 

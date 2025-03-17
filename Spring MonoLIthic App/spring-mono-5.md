@@ -14,6 +14,18 @@
 
 ---
 
+## Technology Stack
+- Java 17
+- Spring Boot 3.x
+- Spring Data JPA (Hibernate)
+- Spring Security (JWT Authentication)
+- MySQL Database
+- Lombok
+- Postman (for testing)
+- Maven
+
+---
+
 ## Overview
 The **Category Service API** is a RESTful service built using **Spring Boot** that allows users to manage categories in an application. This service provides endpoints to fetch, add, update, and delete categories while ensuring proper response handling using **ResponseEntity**.
 

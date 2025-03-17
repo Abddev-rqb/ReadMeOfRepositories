@@ -22,6 +22,19 @@
 
 ---
 
+## Technology Stack
+- Java 17
+- Spring Boot 3.x
+- Spring Data JPA (Hibernate)
+- Spring Security 6.x
+- Spring Security (JWT Authentication)
+- MySQL Database
+- Lombok
+- Postman (for testing)
+- Maven
+
+---
+
 ## Introduction
 This project demonstrates how to implement JSON Web Token (JWT) authentication in a Spring Boot monolithic application. It covers user authentication, role-based access control, security configuration, and cookie-based authentication.
 

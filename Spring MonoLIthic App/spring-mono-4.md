@@ -18,6 +18,18 @@
 
 ---
 
+## Technology Stack
+- Java 17
+- Spring Boot 3.x
+- Spring Data JPA (Hibernate)
+- Spring Security (JWT Authentication)
+- MySQL Database
+- Lombok
+- Postman (for testing)
+- Maven
+
+---
+
 ## Introduction to Spring Boot
 Spring Boot is an extension of the Spring framework that simplifies the setup, configuration, and deployment of Spring applications. It provides embedded servers, auto-configuration, and production-ready features to speed up development.
 

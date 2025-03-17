@@ -18,6 +18,18 @@
 
 ---
 
+## Technology Stack
+- Java 17
+- Spring Boot 3.x
+- Spring Data JPA (Hibernate)
+- Spring Security (JWT Authentication)
+- MySQL Database
+- Lombok
+- Postman (for testing)
+- Maven
+
+---
+
 ## Introduction to Validations in Spring Boot
 
 Spring Boot provides built-in support for **validating user inputs** using **Hibernate Validator**, which is the reference implementation of **Jakarta Bean Validation**.

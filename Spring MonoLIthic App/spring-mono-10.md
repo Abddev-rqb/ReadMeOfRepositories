@@ -21,6 +21,18 @@
 
 ---
 
+## Technology Stack
+- Java 17
+- Spring Boot 3.x
+- Spring Data JPA (Hibernate)
+- Spring Security (JWT Authentication)
+- MySQL Database
+- Lombok
+- Postman (for testing)
+- Maven
+
+---
+
 ## Pagination and How It Works
 Pagination is a technique used in REST APIs to split large datasets into manageable chunks. It improves performance and optimizes resource utilization by fetching only the required records.
 

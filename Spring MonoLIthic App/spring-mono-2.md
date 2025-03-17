@@ -22,6 +22,18 @@
 
 ---
 
+## Technology Stack
+- Java 17
+- Spring Boot 3.x
+- Spring Data JPA (Hibernate)
+- Spring Security (JWT Authentication)
+- MySQL Database
+- Lombok
+- Postman (for testing)
+- Maven
+
+---
+
 ## What is a Web Framework?
 
 A web framework is a software platform that simplifies the development of web applications by providing reusable components, libraries, and a structured way to build applications.

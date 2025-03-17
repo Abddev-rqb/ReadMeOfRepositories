@@ -19,6 +19,19 @@
 
 ---
 
+## Technology Stack
+- Java 17
+- Spring Boot 3.x
+- Spring Data JPA (Hibernate)
+- Spring Security (JWT Authentication)
+- MySQL Database
+- Lombok
+- Postman (for testing)
+- Maven
+
+---
+
+
 ## Introduction
 The **Product Module** is a core part of any e-commerce platform. This module handles product management functionalities such as creating, updating, deleting, and retrieving products. It also supports image handling, validations, and search functionalities.
 

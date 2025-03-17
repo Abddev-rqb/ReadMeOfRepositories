@@ -22,6 +22,18 @@
 
 ---
 
+## Technology Stack
+- Java 17
+- Spring Boot 3.x
+- Spring Data JPA (Hibernate)
+- Spring Security (JWT Authentication)
+- MySQL Database
+- Lombok
+- Postman (for testing)
+- Maven
+
+---
+
 ## Introduction
 In this project, we will explore entity relationships in a social media platform using Spring Boot and Hibernate. We will cover different types of relationships and cascading strategies, along with handling circular references in JSON responses.
 

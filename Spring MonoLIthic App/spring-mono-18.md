@@ -32,7 +32,7 @@ The **Order Management System** is a Spring Boot monolithic application that han
 - Spring Security (JWT Authentication)
 - MySQL Database
 - Lombok
-- JUnit & Mockito (for testing)
+- Postman (for testing)
 - Maven
 
 ---

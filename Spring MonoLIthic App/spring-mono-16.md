@@ -12,6 +12,18 @@
 
 ---
 
+## Technology Stack
+- Java 17
+- Spring Boot 3.x
+- Spring Data JPA (Hibernate)
+- Spring Security (JWT Authentication)
+- MySQL Database
+- Lombok
+- Postman (for testing)
+- Maven
+
+---
+
 ## Introduction
 This guide explores how to integrate different relational databases with a Spring Boot monolithic application using JPA (Java Persistence API). It also covers database schema management and configuration for MySQL and PostgreSQL.
 

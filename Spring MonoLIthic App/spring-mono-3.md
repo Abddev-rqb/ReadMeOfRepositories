@@ -12,6 +12,20 @@ Annotations in the Spring Framework simplify configuration and dependency inject
 - [`@Autowired` Annotation](#autowired-annotation)
 - [`@Qualifier` Annotation](#qualifier-annotation)
 
+---
+
+## Technology Stack
+- Java 17
+- Spring Boot 3.x
+- Spring Data JPA (Hibernate)
+- Spring Security (JWT Authentication)
+- MySQL Database
+- Lombok
+- Postman (for testing)
+- Maven
+
+---
+
 ## Understanding Components and `@ComponentScan`
 
 - `@Component`: Marks a Java class as a Spring-managed component.

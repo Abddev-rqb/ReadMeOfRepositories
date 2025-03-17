@@ -29,6 +29,18 @@
 
 ---
 
+## Technology Stack
+- Java 17
+- Spring Boot 3.x
+- Spring Data JPA (Hibernate)
+- Spring Security 6.x
+- MySQL Database
+- Lombok
+- Postman (for testing)
+- Maven
+
+---
+
 ## Introduction to Security
 Security is an essential part of any application to protect user data, prevent unauthorized access, and maintain data integrity. Spring Security is a powerful authentication and access control framework that integrates seamlessly with Spring applications.
 

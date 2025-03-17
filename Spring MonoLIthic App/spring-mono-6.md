@@ -12,6 +12,18 @@
 
 ---
 
+## Technology Stack
+- Java 17
+- Spring Boot 3.x
+- Spring Data JPA (Hibernate)
+- Spring Security (JWT Authentication)
+- MySQL Database
+- Lombok
+- Postman (for testing)
+- Maven
+
+---
+
 ## Introduction
 
 In today's digital world, data is the backbone of businesses. Managing this data efficiently requires a well-structured database management system. This guide introduces the basics of databases, relational databases, SQL, and ORM (Object-Relational Mapping).

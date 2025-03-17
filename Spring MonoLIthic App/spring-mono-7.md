@@ -18,6 +18,18 @@
 
 ---
 
+## Technology Stack
+- Java 17
+- Spring Boot 3.x
+- Spring Data JPA (Hibernate)
+- Spring Security (JWT Authentication)
+- MySQL Database
+- Lombok
+- Postman (for testing)
+- Maven
+
+---
+
 ## Introduction to JPA
 
 Java Persistence API (JPA) is a specification for managing relational data in Java applications. It provides an abstraction over database operations, making it easier to interact with databases using Java objects.
