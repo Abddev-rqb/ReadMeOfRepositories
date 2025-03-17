@@ -16,6 +16,7 @@
 - Java 17
 - Spring Boot 3.x
 - Spring Data JPA (Hibernate)
+- Spring Security 6.x
 - Spring Security (JWT Authentication)
 - MySQL Database
 - Lombok
